@@ -15,5 +15,6 @@ public class Solution {
         String name3 = reader.readLine();
 
         System.out.printf("%s + %s + %s = Чистая любовь, да-да!", name1, name2, name3);
+        reader.close();
     }
 }

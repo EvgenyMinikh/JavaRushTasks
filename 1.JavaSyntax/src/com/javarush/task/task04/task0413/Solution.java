@@ -18,5 +18,6 @@ public class Solution {
         } else {
             System.out.println(week[num - 1]);
         }
+        reader.close();
     }
 }

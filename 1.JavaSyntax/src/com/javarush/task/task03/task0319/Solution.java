@@ -14,5 +14,6 @@ public class Solution {
         String num2 = reader.readLine();
 
         System.out.printf("%s получает %s через %s лет.",name, num1, num2);
+        reader.close();
     }
 }

@@ -11,5 +11,6 @@ public class Solution {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String num = reader.readLine();
         System.out.printf("Я буду зарабатывать $%s в час", num);
+        reader.close();
     }
 }
