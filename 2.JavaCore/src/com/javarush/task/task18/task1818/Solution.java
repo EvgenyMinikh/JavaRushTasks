@@ -6,7 +6,6 @@ package com.javarush.task.task18.task1818;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.FileReader;
 import java.util.Scanner;
 
 public class Solution {
